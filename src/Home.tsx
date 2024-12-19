@@ -1,10 +1,16 @@
+
 import Page2 from "./Page2"
 import Page3 from "./Page3"
+import Page4 from "./Page4"
+import Page5 from "./Page5"
+import Page6 from "./Page6"
+import Page7 from "./Page7"
+import Page8 from "./Page8"
 
 const Home = () => {
     return (
         <>
-            <div className="max-w-[1480px] mt-5 container">
+            <div className=" mt-5 container">
                 <div className=" ">
                     <div className="bg-[url(public/Hero.png)] flex relative bg-center bg-cover rounded-xl  bg-no-repeat max-w-[1408px] h-[509px]">
                     <div className="flex flex-col mx-auto my-0 justify-center   ">
@@ -29,6 +35,11 @@ const Home = () => {
                 </div>
                 <Page2/>
                 <Page3/>
+                <Page4/>
+                <Page5/>
+                <Page6/>
+                <Page7/>
+                <Page8/>
             </div>
         </>
     )

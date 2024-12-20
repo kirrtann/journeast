@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div className='max-w-[1480px] mx-auto '>
-       <Navbar/>
+       {/* <Navbar/> */}
        <Home/>
       </div>
     </>

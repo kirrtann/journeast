@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@font-face {
+    font-family: "Custom-1";
+    src: url("/font/NewTegomin-Regular.ttf");
+  }
+  
+  @font-face {
+    font-family: "Custom-2";
+    src: url("/font/Nosifer-Regular.ttf");
+  }

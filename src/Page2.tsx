@@ -3,9 +3,10 @@ import Card from "./common/Card"
 const Page2 = () => {
     return (
         <>
+        <div className="px-4">
             <div className="flex  px-4 mt-10 mb-5 relative ">
                 <div>
-                    <h4 className="text-[38px] ">Popular destinations</h4>
+                    <h4 className="sm:text-[38px] text-[26px] ">Popular destinations</h4>
                     <p  className="text-[18px]">Discover, plan, and experience unforgettable journeys effortlessly.</p>
                 </div>
                 {/* <div className="absolute right-20 place-items-center ">
@@ -18,7 +19,7 @@ const Page2 = () => {
                 <Card src={"public/Image (7).png"} City={"ja[an"} />
                 <Card src={"public/Image (8).png"} City={"Switzerland"} />
 
-            </div>
+            </div></div>
         </>
     )
 }

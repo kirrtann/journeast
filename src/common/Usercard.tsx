@@ -7,7 +7,7 @@ const Usercard = ({place,Userpic}:{place:string, Userpic:string}) => {
                 <img src={place} alt="Photo" />
                 <h5>Hidden Gems in Vietnam</h5>
                 <div className="flex ">
-                    <img src={Userpic} alt="" />
+                    <img src={Userpic} className="" alt="" />
                     <p className="justify-items-center pl-1">Cameron Williamson</p>
 
                 </div>

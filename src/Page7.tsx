@@ -5,11 +5,11 @@ const Page7 = () => {
         <>
             <div className="mt-24 px-4 max-w-[1460px]">
                 <div className="flex flex-col items-center">
-                    <h3 className="md:text-[36px] text-[24px] ">Trusted by Travellers Around The Globe</h3>
+                    <h3 className="sm:text-[36px] text-[24px] ">Trusted by Travellers Around The Globe</h3>
                     <p className="text-[20px]">Discover, plan, and experience unforgettable journeys effortlessly.</p>
                 </div>
                 <div className="flex flex-wrap justify-center gap-[28px] mt-6">
-                    <div className=" w-[400px] space-y-4">
+                    <div className=" max-   w-[400px] space-y-4">
                         <Discover
                             Discription="I can't imagine planning my trips without JournEasy Pro! The advanced trip planning tools have made organizing my itineraries a breeze. Plus, the unlimited customization options ensure every detail is just right. Highly recommend it to anyone looking for a seamless travel planning experience!"
                             src="public/Avatar (7).png"
@@ -26,7 +26,7 @@ const Page7 = () => {
                             Name="Cameron willmtion" />
 
                     </div>
-                    <div className="  w-[400px] space-y-4">
+                    <div className="  max-w-[400px] space-y-4">
                         <Discover Discription="I've been using JournEasy Pro for all my travel planning needs, and it has exceeded my expectations. The advanced trip planning tools have saved me so much time, and the unlimited itinerary customization allows me to tailor my trips exactly how I want. I absolutely love the ad-free experience and the priority customer support is the cherry on top! Highly recommended!"
                             src="public/Avatar (3).png"
                             Name="Emil H." />
@@ -41,7 +41,7 @@ const Page7 = () => {
 
                     </div>
                     <div>
-                        <div className=" max-w-[400px] space-y-4">
+                        <div className="  max-w-[400px] space-y-4">
                             <Discover
                                 Discription="Being a travel enthusiast, I'm always on the lookout for tools that can enhance my travel experiences, and JournEasy Pro does just that. The advanced trip planning tools are incredibly intuitive and user-friendly, making it easy for me to create detailed itineraries for my trips. The ad-free experience is a huge plus, and the priority customer support team has been extremely helpful whenever I've had questions. I highly recommend JournEasy Pro to anyone who loves to travel!"
                                 src="public/Avatar (6).png"

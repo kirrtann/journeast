@@ -28,7 +28,7 @@ const Home = () => {
                                             </svg>
                                         </div>
                                         <input type="search" id="default-search" className="block w-full  rounded-3xl p-4 ps-10 text-sm text-gray-900 border border-gray-300  bg-gray-50 " placeholder="japan, Logos..." required />
-                                        <button type="submit" className="text-white absolute end-2.5 bottom-3 sm:bottom-2 mt-1 bg-[#EB6123] sm:py-2 sm:px-5 py-1 px-2 rounded-3xl ">Start Planning</button>
+                                        <button type="submit" className="text-white absolute end-2.5 bottom-3  sm:bottom-2  bg-[#EB6123] sm:py-2 sm:px-5 py-1 px-2 rounded-3xl sm:text-[16px] text-[14px]">Start Planning</button>
                                     </div>
                                 </form>
                             </div>

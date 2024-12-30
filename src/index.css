@@ -1,12 +1,21 @@
+/* src/index.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Your custom font-face declarations here */
 @font-face {
-    font-family: "Custom-1";
-    src: url("/font/NewTegomin-Regular.ttf");
-  }
-  
-  @font-face {
-    font-family: "Custom-2";
-    src: url("/font/Nosifer-Regular.ttf");
-  }
+  font-family: "NewTegomin";
+  src: url("/font/NewTegomin-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Nosifer";
+  src: url("/font/Nosifer-Regular.ttf") format("truetype");
+}
+
+body {
+  font-family: 'NewTegomin', sans-serif;
+}
+
+/* Optional: Add some Tailwind customization */

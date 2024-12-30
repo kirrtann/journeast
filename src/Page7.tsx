@@ -12,12 +12,12 @@ const Page7 = () => {
                     <div className=" max-   w-[400px] space-y-4">
                         <Discover
                             Discription="I can't imagine planning my trips without JournEasy Pro! The advanced trip planning tools have made organizing my itineraries a breeze. Plus, the unlimited customization options ensure every detail is just right. Highly recommend it to anyone looking for a seamless travel planning experience!"
-                            src="public/Avatar (7).png"
+                            src="/Avatar (7).png"
                             Name="Mayuri Sharma"
                         />
                         <Discover
                             Discription="As a frequent traveler, having access to JournEasy Pro has been a game-changer. The ad-free experience allows me to focus on planning my adventures without any distractions. Plus, the priority customer support ensures I always have assistance whenever I need it. Couldn't be happier with my Pro subscription!"
-                            src="public/Avatar (1).png"
+                            src="/Avatar (1).png"
                             Name="John R."
                         />
                         <Discover

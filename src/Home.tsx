@@ -15,7 +15,7 @@ const Home = () => {
             <div className=" mt-5 max-w-[1480px] font-Uncut  container">
                 {/* <Navbar/> */}
                 <div className="justify-center mx-2 ">
-                    <div className="bg-[url(public/Hero.png)] px-1 flex relative bg-center bg-cover rounded-xl  bg-no-repeat max-w-[1408px] h-[509px]">
+                    <div className="bg-[url(/Hero.png)] px-1 flex relative bg-center bg-cover rounded-xl  bg-no-repeat max-w-[1408px] h-[509px]">
                         <div className="flex flex-col mx-auto my-0 justify-center   ">
                             <h2 className="text-white sm:text-[28px] text-[24px] font-custom1 ">Plan Your Perfect Trip with Ease</h2>
                             <div>

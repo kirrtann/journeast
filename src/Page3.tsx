@@ -12,7 +12,7 @@ const Page3 = () => {
                     <h6 className="text-[16px] font-semibold">Trip Planning</h6>
                     <p className="text-[14px]">Effortlessly create and customize your trip itineraries, ensuring every detail of your journey is perfectly planned and organized.</p>
                     <div>
-                        <img src="public/Frame 1039927.png" alt="" />
+                        <img src="/Frame 1039927.png" alt="" />
                     </div>
                 </div>  
                     <div className="grid gap-2 max-w-[443px] ">
@@ -31,7 +31,7 @@ const Page3 = () => {
                 <div className="border rounded-2xl pl-3 pt-3 max-w-[443px] md:h-[600px]">
                     <h6 className="font-semibold">Budget Management</h6><p>Take control of your finances with our intuitive budget management tools, allowing you to set, track, and manage your travel expenses with ease.</p>
                     <div>
-                        <img src="public/Frame 1039930.png" alt="" />
+                        <img src="/Frame 1039930.png" alt="" />
                     </div>
                 </div>
             </div>

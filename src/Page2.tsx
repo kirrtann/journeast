@@ -14,10 +14,10 @@ const Page2 = () => {
                 </div> */}
             </div>
             <div className="flex-wrap flex justify-center gap-4">
-                <Card src={"public/Image (5).png"} City={"Dubia"} />
-                <Card src={"public/Image (6).png"} City={"Vietnam"} />
-                <Card src={"public/Image (7).png"} City={"ja[an"} />
-                <Card src={"public/Image (8).png"} City={"Switzerland"} />
+                <Card src={"/Image (5).png"} City={"Dubia"} />
+                <Card src={"/Image (6).png"} City={"Vietnam"} />
+                <Card src={"/Image (7).png"} City={"ja[an"} />
+                <Card src={"/Image (8).png"} City={"Switzerland"} />
 
             </div></div>
         </>

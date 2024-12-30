@@ -13,7 +13,7 @@ const Page8 = () => {
                             <img className="w-[150px]" src="public/Group.png" alt="" /></div>
                     </div>
                     <div className="sm:pt-10 ">
-                        <img src="public/Group 9.png"  alt="Photo" />
+                        <img src="/Phone.png"  alt="Photo" />
                     </div>
                 </div>
             </div>

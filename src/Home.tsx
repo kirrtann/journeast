@@ -1,6 +1,6 @@
 
 import Footer from "./Footer"
-import Navbar from "./Navbar"
+// import Navbar from "./Navbar"
 import Page2 from "./Page2"
 import Page3 from "./Page3"
 import Page4 from "./Page4"

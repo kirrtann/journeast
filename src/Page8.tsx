@@ -9,11 +9,11 @@ const Page8 = () => {
 
                         <p className="md:text-[18px] text-[14px]">Unlock personalized itineraries, budget tracking, and more. Get started with JournEasy app now.</p>
                         <div className="flex gap-3 w-[30%] ">
-                            <img className="w-[150px]" src="public/Google Play.png" alt="" />
-                            <img className="w-[150px]" src="public/Group.png" alt="" /></div>
+                            <img className="w-[150px]" src="build/Google Play.png" alt="" />
+                            <img className="w-[150px]" src="build/Group.png" alt="" /></div>
                     </div>
                     <div className="sm:pt-10 ">
-                        <img src="/Phone.png"  alt="Photo" />
+                        <img src="build/Phone.png"  alt="Photo" />
                     </div>
                 </div>
             </div>

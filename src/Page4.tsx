@@ -3,7 +3,7 @@ const Page4 = () => {
     return (
         <>
             <div className="max-w-[1480px] px-4 mt-[80px]">
-                <div className="bg-[url(/Second.png)]   relative bg-center bg-cover rounded-xl  bg-no-repeat max-w-[1300px] h-[300px] sm:h-[400px] md:h-[509px]">
+                <div className="bg-[url(build/Second.png)]   relative bg-center bg-cover rounded-xl  bg-no-repeat max-w-[1300px] h-[300px] sm:h-[400px] md:h-[509px]">
                     <div className="flex flex-col items-center justify-center pl-2 h-full">
                         <h2 className="text-white text-[24px] md:text-[36px] ">Plan Your Next Vacation</h2>
                         <p className="text-white sm:text-[18px]">Start planning your dream vacation with just a few clicks.</p>

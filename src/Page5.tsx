@@ -12,10 +12,10 @@ const Page5 = () => {
                     
                 </div>
                 <div className="flex flex-wrap justify-center gap-4"> 
-                    <Usercard place={"public/Image (1).png"} Userpic="public/Small.png" />
-                    <Usercard place={"public/Image (1).png"} Userpic="public/Small.png" />
-                    <Usercard place={"public/Image (1).png"} Userpic="public/Small.png" />
-                    <Usercard place={"public/Image (1).png"} Userpic="public/Small.png" />
+                    <Usercard place={"build/Image (1).png"} Userpic="public/Small.png" />
+                    <Usercard place={"build/Image (2).png"} Userpic="public/Small.png" />
+                    <Usercard place={"build/Image (3).png"} Userpic="public/Small.png" />
+                    <Usercard place={"build/Image (4).png"} Userpic="public/Small.png" />
                 </div>
             </div>
 

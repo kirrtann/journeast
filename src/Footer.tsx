@@ -8,10 +8,10 @@ const Footer = () => {
                         <p className="text-[14px] opacity-80 ">Whether you're an experienced wine connoisseur or just beginning your wine journey, we've carefully curated an exceptional selection of wines from around the globe to suit every palate and occasion.</p>
                     </div>
                     <div className="flex mt-5 gap-6">
-                        <img src="public/Social icon.png" alt="Social Media" />
-                        <img src="public/Vector.png" alt="Social Media" />
-                        <img src="public/insta.png" alt="Social Media" />
-                        <img src="public/abcd.png" alt="Social Media" />
+                        <img src="build/Social icon.png" alt="Social Media" />
+                        <img src="build/Vector.png" alt="Social Media" />
+                        <img src="build/insta.png" alt="Social Media" />
+                        <img src="build/abcd.png" alt="Social Media" />
                     </div>
                 </div>
                 <div>
@@ -37,8 +37,8 @@ const Footer = () => {
                 <div className="space-y-3">
                     <h6>Download App</h6>
                     <div className="space-y-4 ">
-                        <img className="w-[150px]" src="public/Google Play.png" alt="" />
-                        <img src="public/Group.png" className="w-[150px]" alt="" />
+                        <img className="w-[150px]" src="build/Google Play.png" alt="" />
+                        <img src="build/Group.png" className="w-[150px]" alt="" />
                     </div>
                 </div>
 
